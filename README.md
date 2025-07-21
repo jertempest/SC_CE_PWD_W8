@@ -1,15 +1,16 @@
-This is a follow along for the week 6 lesson of Python for Web Development presented by Sheridan College Oakville hosted by Ontario Learn
+This is a follow along for the week 8 lesson of Python for Web Development presented by Sheridan College Oakville hosted by Ontario Learn
 
 superuser: jeremy pwd: Admin123
 
 This week we learn:
 
-Managers
+Django Templates
 
-QuerySets
+Static Files
 
-model Methods
+Django Template Files
 
-Testing database queries
+Rendering Data
+
 
 YouTube link to the video:
